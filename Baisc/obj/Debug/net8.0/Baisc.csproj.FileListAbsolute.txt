@@ -1,0 +1,14 @@
+C:\Users\srilatha\source\repos\Baisc\bin\Debug\net8.0\Baisc.exe
+C:\Users\srilatha\source\repos\Baisc\bin\Debug\net8.0\Baisc.deps.json
+C:\Users\srilatha\source\repos\Baisc\bin\Debug\net8.0\Baisc.runtimeconfig.json
+C:\Users\srilatha\source\repos\Baisc\bin\Debug\net8.0\Baisc.dll
+C:\Users\srilatha\source\repos\Baisc\bin\Debug\net8.0\Baisc.pdb
+C:\Users\srilatha\source\repos\Baisc\obj\Debug\net8.0\Baisc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srilatha\source\repos\Baisc\obj\Debug\net8.0\Baisc.AssemblyInfoInputs.cache
+C:\Users\srilatha\source\repos\Baisc\obj\Debug\net8.0\Baisc.AssemblyInfo.cs
+C:\Users\srilatha\source\repos\Baisc\obj\Debug\net8.0\Baisc.csproj.CoreCompileInputs.cache
+C:\Users\srilatha\source\repos\Baisc\obj\Debug\net8.0\Baisc.dll
+C:\Users\srilatha\source\repos\Baisc\obj\Debug\net8.0\refint\Baisc.dll
+C:\Users\srilatha\source\repos\Baisc\obj\Debug\net8.0\Baisc.pdb
+C:\Users\srilatha\source\repos\Baisc\obj\Debug\net8.0\Baisc.genruntimeconfig.cache
+C:\Users\srilatha\source\repos\Baisc\obj\Debug\net8.0\ref\Baisc.dll

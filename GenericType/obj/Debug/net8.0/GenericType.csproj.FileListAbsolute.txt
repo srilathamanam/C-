@@ -1,0 +1,14 @@
+C:\Users\srilatha\source\repos\GenericType\bin\Debug\net8.0\GenericType.exe
+C:\Users\srilatha\source\repos\GenericType\bin\Debug\net8.0\GenericType.deps.json
+C:\Users\srilatha\source\repos\GenericType\bin\Debug\net8.0\GenericType.runtimeconfig.json
+C:\Users\srilatha\source\repos\GenericType\bin\Debug\net8.0\GenericType.dll
+C:\Users\srilatha\source\repos\GenericType\bin\Debug\net8.0\GenericType.pdb
+C:\Users\srilatha\source\repos\GenericType\obj\Debug\net8.0\GenericType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srilatha\source\repos\GenericType\obj\Debug\net8.0\GenericType.AssemblyInfoInputs.cache
+C:\Users\srilatha\source\repos\GenericType\obj\Debug\net8.0\GenericType.AssemblyInfo.cs
+C:\Users\srilatha\source\repos\GenericType\obj\Debug\net8.0\GenericType.csproj.CoreCompileInputs.cache
+C:\Users\srilatha\source\repos\GenericType\obj\Debug\net8.0\GenericType.dll
+C:\Users\srilatha\source\repos\GenericType\obj\Debug\net8.0\refint\GenericType.dll
+C:\Users\srilatha\source\repos\GenericType\obj\Debug\net8.0\GenericType.pdb
+C:\Users\srilatha\source\repos\GenericType\obj\Debug\net8.0\GenericType.genruntimeconfig.cache
+C:\Users\srilatha\source\repos\GenericType\obj\Debug\net8.0\ref\GenericType.dll

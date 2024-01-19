@@ -1,0 +1,14 @@
+C:\Users\srilatha\source\repos\DelegateAndException\bin\Debug\net8.0\DelegateAndException.exe
+C:\Users\srilatha\source\repos\DelegateAndException\bin\Debug\net8.0\DelegateAndException.deps.json
+C:\Users\srilatha\source\repos\DelegateAndException\bin\Debug\net8.0\DelegateAndException.runtimeconfig.json
+C:\Users\srilatha\source\repos\DelegateAndException\bin\Debug\net8.0\DelegateAndException.dll
+C:\Users\srilatha\source\repos\DelegateAndException\bin\Debug\net8.0\DelegateAndException.pdb
+C:\Users\srilatha\source\repos\DelegateAndException\obj\Debug\net8.0\DelegateAndException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srilatha\source\repos\DelegateAndException\obj\Debug\net8.0\DelegateAndException.AssemblyInfoInputs.cache
+C:\Users\srilatha\source\repos\DelegateAndException\obj\Debug\net8.0\DelegateAndException.AssemblyInfo.cs
+C:\Users\srilatha\source\repos\DelegateAndException\obj\Debug\net8.0\DelegateAndException.csproj.CoreCompileInputs.cache
+C:\Users\srilatha\source\repos\DelegateAndException\obj\Debug\net8.0\DelegateAndException.dll
+C:\Users\srilatha\source\repos\DelegateAndException\obj\Debug\net8.0\refint\DelegateAndException.dll
+C:\Users\srilatha\source\repos\DelegateAndException\obj\Debug\net8.0\DelegateAndException.pdb
+C:\Users\srilatha\source\repos\DelegateAndException\obj\Debug\net8.0\DelegateAndException.genruntimeconfig.cache
+C:\Users\srilatha\source\repos\DelegateAndException\obj\Debug\net8.0\ref\DelegateAndException.dll

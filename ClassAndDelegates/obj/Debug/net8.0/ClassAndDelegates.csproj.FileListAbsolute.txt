@@ -1,0 +1,14 @@
+C:\Users\srilatha\source\repos\ClassAndDelegates\obj\Debug\net8.0\ClassAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srilatha\source\repos\ClassAndDelegates\obj\Debug\net8.0\ClassAndDelegates.AssemblyInfoInputs.cache
+C:\Users\srilatha\source\repos\ClassAndDelegates\obj\Debug\net8.0\ClassAndDelegates.AssemblyInfo.cs
+C:\Users\srilatha\source\repos\ClassAndDelegates\obj\Debug\net8.0\ClassAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\srilatha\source\repos\ClassAndDelegates\bin\Debug\net8.0\ClassAndDelegates.exe
+C:\Users\srilatha\source\repos\ClassAndDelegates\bin\Debug\net8.0\ClassAndDelegates.deps.json
+C:\Users\srilatha\source\repos\ClassAndDelegates\bin\Debug\net8.0\ClassAndDelegates.runtimeconfig.json
+C:\Users\srilatha\source\repos\ClassAndDelegates\bin\Debug\net8.0\ClassAndDelegates.dll
+C:\Users\srilatha\source\repos\ClassAndDelegates\bin\Debug\net8.0\ClassAndDelegates.pdb
+C:\Users\srilatha\source\repos\ClassAndDelegates\obj\Debug\net8.0\ClassAndDelegates.dll
+C:\Users\srilatha\source\repos\ClassAndDelegates\obj\Debug\net8.0\refint\ClassAndDelegates.dll
+C:\Users\srilatha\source\repos\ClassAndDelegates\obj\Debug\net8.0\ClassAndDelegates.pdb
+C:\Users\srilatha\source\repos\ClassAndDelegates\obj\Debug\net8.0\ClassAndDelegates.genruntimeconfig.cache
+C:\Users\srilatha\source\repos\ClassAndDelegates\obj\Debug\net8.0\ref\ClassAndDelegates.dll
